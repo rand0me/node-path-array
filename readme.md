@@ -13,9 +13,9 @@ $ npm install --save path-array
 ## Usage
 
 ```js
-const pathArray = require('path-array');
+const PathArray = require('path-array');
 
-pathArray('unicorns');
+let conf = PathArray.fromArray([]);
 //=> 'unicorns & rainbows'
 ```
 
