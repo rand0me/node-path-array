@@ -1,0 +1,39 @@
+[
+  {
+    "id": "ModuleManager",
+    "cfg": {
+      "cdn": "//inhabitmaindev.akamaized.net/modulerepository"
+    }
+  },
+  {
+    "id": "application",
+    "cfg": {
+      "cssUrl": [ "/css/ark-app.css" ],
+      "cacheTimeSec": "300",
+      "cdnUrl": ""
+    }
+  },
+  {
+    "id": "widget",
+    "cfg": [
+      {
+        "id": "widget",
+        "cfg": {
+          "presenter": "contentPresenter",
+          "rulesGroup": "inWidget"
+        }
+      }
+    ]
+  },
+  {
+    "id": "contentPresenter",
+    "cfg": [
+      {
+        "id": "inWidget",
+        "cfg": {
+          "modules": []
+        }
+      }
+    ]
+  }
+]

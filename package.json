@@ -1,0 +1,30 @@
+{
+  "name": "path-array",
+  "version": "0.0.0",
+  "description": "PathArray implementation",
+  "license": "MIT",
+  "repository": "rand0me/path-array",
+  "author": {
+    "name": "rand0me",
+    "email": "not.randome@gmail.com",
+    "url": "rand0me.github.io"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "ava",
+    "xo": "xo"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    ""
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "ava": "^0.17.0",
+    "xo": "^0.17.0"
+  }
+}
