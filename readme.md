@@ -1,4 +1,4 @@
-# path-array [![Build Status](https://travis-ci.org/rand0me/path-array.svg?branch=master)](https://travis-ci.org/rand0me/path-array)
+# path-array [![Build Status](https://travis-ci.org/rand0me/path-array.svg?branch=master)](https://travis-ci.org/rand0me/path-array) [![Greenkeeper badge](https://badges.greenkeeper.io/rand0me/node-path-array.svg)](https://greenkeeper.io/)
 
 > PathArray implementation
 
